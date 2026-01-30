@@ -7,7 +7,7 @@
 **Przedmiot:** Podstawy reprezentacji i analizy danych  \
 **Typ pracy:** Projekt zaliczeniowy \
 **Autorzy:** Adam Grochulski i Przemysław Pindral  \
-**Data :** 2026-01-30  \
+**Data :** 30 stycznia 2026  \
 **Zbiór danych:** `pokemon.csv` (zawiera opisy Pokémonów z 7 generacji)  \
 **Zadanie:** Analiza eksploracyjna + wizualizacja + klasyfikacja zmiennej `is_legendary` (czy Pokémon jest legendarny) metodami: DecisionTree, GaussianNB, SVC.
 
